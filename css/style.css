@@ -1,0 +1,16 @@
+.d-flex input {
+  margin: 0.9em 0em;
+}
+.d-flex button {
+  margin: 1em 0em;
+  padding: 0.3em 1em;
+  width: 100%;
+}
+.container table {
+  margin: 1em 10em;
+}
+@media (max-width: 767px) {
+  .del {
+    padding: 10px;
+  }
+}
