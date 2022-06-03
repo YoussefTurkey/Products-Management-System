@@ -1,2 +1,2 @@
 # CRUD-System
-Using HTML, CSS, Bootstrap and Javascript
+Product Management Systmen was built using HTML5, CSS3 and JavaScript 
